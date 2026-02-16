@@ -2,7 +2,6 @@
   // Internal Settings - Do not change these
   // _debug: Enable QColor debug mode
   // _enabled: Enable or disable the plugin
-  "_debug": false,
   "_enabled": true,
 
   // Color Phantoms
@@ -23,10 +22,8 @@
   // Misc Options
   // hsl_precision: Number of decimal places in HSL precision.
   // hex_upper_case: Display hex values in upper case.
-  // hover_preview: Show preview when mousing over a color.
   // named_colors: Enable color phantoms for named colors (red, blue, etc).
   "hsl_precision": 0,
   "hex_upper_case": true,
-  "hover_preview": false,
   "named_colors": false
 }

@@ -1,10 +1,13 @@
-# QColor
-Awesome Sublime Color Highlighter, Converter and Picker 
+# QColorLite
+Sublime Color Highlighter and Converter based on QColor
 
 
 ## Installation
-1. `pip3 install pywebview`
-2. Restart Sublime
+
+### With Package Control
+
+1. `Package Control: Add Repository` -> https://github.com/dhelonious/QColorLite
+2. `Package Control: Install Package` -> `QColorLite`
 
 
 ## Settings
@@ -16,17 +19,11 @@ Awesome Sublime Color Highlighter, Converter and Picker
                      such as "red", "blue".<br/>
 
 ### Menu Options
-**QColor: Picker** - Open the pywebview color picker.<br/>
 **QColor: Show Colors** - Show color phantoms.<br/>
 **QColor: Hide Colors** - Hide color phantoms.<br/>
 **QColor: Toggle Colors** - Toggle color phantoms.<br/>
 **QColor: Settings** - Edit the QColor settings files.<br/>
 **QColor: Key Bindings** - Edit the QColor key bindings.<br/>
-
-### Key Bindings
-`ctrl+shift+c` - Open the color picker.<br/>
-`alt+shift+c` - Open the color convertor.<br/>
-`alt+ctrl+c` - Toggle color phantoms.<br/>
 
 
 ## Screenshots
